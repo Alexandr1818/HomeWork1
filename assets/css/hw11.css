@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+body {
+font-size: 18pt;
+  margin: 50px;
+  padding: 50px;
+}
+p {
+  line-height: 0.1;
+  margin: 50px;
+}
+li {
+  line-height: 0.1em;
+  margin: 50px;
+}
